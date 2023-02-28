@@ -37,3 +37,8 @@
 * ### insert record collection one row
 ### `db.user.insertOne({"name":"vipul","school":{"name":"abcds","city":"asdas"}})`
 
+* ### collection in show all rows `db.user.find()`
+### Syntax (db.CollectionName.find())
+
+* ### collection in show matching rows `db.user.find({name:"vipul"})`
+### Syntax (db.CollectionName.find({field:'value'}))
