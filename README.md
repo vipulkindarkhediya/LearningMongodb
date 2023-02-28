@@ -34,3 +34,6 @@
 * ### drop database `db.dropDatabase()`
 ### Syntax (db.dropDatabase())
 
+* ### insert record collection one row
+### `db.user.insertOne({"name":"vipul","school":{"name":"abcds","city":"asdas"}})`
+
