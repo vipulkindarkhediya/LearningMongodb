@@ -5,3 +5,5 @@
 - This repository git clone
 
 ### `https://github.com/vckindarkhediya/LearningMongodb.git`
+
+- [mongo start](https://github.com/vckindarkhediya/LearningMongodb/blob/mongodb/day-1-demo/index.html)
