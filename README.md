@@ -23,30 +23,30 @@
 
 ### Such a collection has to be created so that the database is not show
 
-- ### database in create collection `db.createCollection("user")`
 ### Syntax (db.createCollection(CollectionName))
+- ### database in create collection `db.createCollection("user")`
 
 - ### show all collections `show collections`
 
-### delete collection `db.user.drop()`
 ### Syntax (db.CollectionName.drop())
+### delete collection `db.user.drop()`
 
-- ### drop database `db.dropDatabase()`
 ### Syntax (db.dropDatabase())
+- ### drop database `db.dropDatabase()`
 
 - ### collection in insertOne row of data
-### `db.user.insertOne({"name":"vipul","school":{"name":"abcds","city":"asdas"}})`
 ### Syntax (db.CollectionName.insertOne({field:'value',field:'value'}))
+### `db.user.insertOne({"name":"vipul","school":{"name":"abcds","city":"asdas"}})`
 
 - ### collection in insertMany rows of data
-### `db.user.insertMany([{"name":"vipul","school":{"name":"abcds","city":"asdas"}},{"name":"vipul","school":{"name":"abcds","city":"asdas"}}])`
 ### Syntax (db.CollectionName.insertMany([{field:'value'},{field:'value'}]))
+### `db.user.insertMany([{"name":"vipul","school":{"name":"abcds","city":"asdas"}},{"name":"vipul","school":{"name":"abcds","city":"asdas"}}])`
 
-- ### collection in show all rows `db.user.find()`
 ### Syntax (db.CollectionName.find())
+- ### collection in show all rows `db.user.find()`
 
-- ### collection in show all matching rows `db.user.find({name:"vipul"})`
 ### Syntax (db.CollectionName.find({field:'value'}))
+- ### collection in show all matching rows `db.user.find({name:"vipul"})`
 
-- ### collection in show One matching row `db.user.findOne({name:"vipul"})`
 ### Syntax (db.CollectionName.findOne({field:'value'}))
+- ### collection in show One matching row `db.user.findOne({name:"vipul"})`
