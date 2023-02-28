@@ -9,3 +9,6 @@
 ### mongodb version check `mongod --version`
 
 ### mongos version check `mongos --version`
+
+## mongodb install directory type this commands
+### mongo start `mongo.exe`
