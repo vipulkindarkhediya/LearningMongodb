@@ -22,4 +22,4 @@
 
 Such a collection has to be created so that the database is not show
 
-#### database in create collection `db.createCollection("user")` (db.createCollection(CollectionName))
+### database in create collection `db.createCollection("user")` (db.createCollection(CollectionName))
