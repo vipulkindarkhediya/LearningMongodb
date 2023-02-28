@@ -18,8 +18,10 @@
 
 ### check current working database `db`
 
-### new create database & switch database `use ecommerce` (use DatabaseName)
+### new create database & switch database `use ecommerce` 
+### Syntax (use DatabaseName)
 
 Such a collection has to be created so that the database is not show
 
-### database in create collection `db.createCollection("user")` (db.createCollection(CollectionName))
+### database in create collection `db.createCollection("user")` 
+### Syntax (db.createCollection(CollectionName))
