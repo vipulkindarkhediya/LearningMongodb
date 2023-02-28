@@ -25,3 +25,12 @@
 
 * ### database in create collection `db.createCollection("user")` 
 ### Syntax (db.createCollection(CollectionName))
+
+* ### show all collections `show collections`
+
+* ### delete collection `db.user.drop()`
+### Syntax (db.CollectionName.drop())
+
+* ### drop database `db.dropDatabase()`
+### Syntax (db.dropDatabase())
+
