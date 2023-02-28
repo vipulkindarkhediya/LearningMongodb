@@ -13,3 +13,11 @@
 <h2>mongodb install directory type this commands</h2>
 
 ### mongo start `mongo.exe`
+
+### show databases `show dbs`
+
+### check current working database `db`
+
+### new create database & switch database `use ecommerce` (use DatabaseName)
+
+### 
