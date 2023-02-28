@@ -51,6 +51,5 @@
 ### Syntax (db.CollectionName.findOne({field:'value'}))
 - ### collection in show One matching row `db.user.findOne({name:"vipul"})`
 
-### limit the records show
 ### Syntax (db.CollectionName.find().limit(LimitNumber))
-### `db.user.find().limit(2)`
+### limit the records show `db.user.find().limit(2)`
