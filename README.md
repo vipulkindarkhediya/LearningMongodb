@@ -18,8 +18,8 @@
 
 - ### check current working database `db`
 
-- ### new create database & switch database `use ecommerce`
 ### Syntax (use DatabaseName)
+- ### new create database & switch database `use ecommerce`
 
 ### Such a collection has to be created so that the database is not show
 
